@@ -34,11 +34,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eduardo\\Source\\repos\\Achei\\apis\\achei.api.prestadorservico\\achei.comp.repository.mapper.prestadorservico\\achei.comp.repository.mapper.prestadorservico.csproj",
+      "projectUniqueName": "C:\\Users\\Eduardo\\Source\\repos\\Achei\\apis\\ACHEI\\achei.api.prestadorservico\\achei.comp.repository.mapper.prestadorservico\\achei.comp.repository.mapper.prestadorservico.csproj",
       "projectName": "achei.comp.repository.mapper.prestadorservico",
-      "projectPath": "C:\\Users\\Eduardo\\Source\\repos\\Achei\\apis\\achei.api.prestadorservico\\achei.comp.repository.mapper.prestadorservico\\achei.comp.repository.mapper.prestadorservico.csproj",
+      "projectPath": "C:\\Users\\Eduardo\\Source\\repos\\Achei\\apis\\ACHEI\\achei.api.prestadorservico\\achei.comp.repository.mapper.prestadorservico\\achei.comp.repository.mapper.prestadorservico.csproj",
       "packagesPath": "C:\\Users\\Eduardo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eduardo\\Source\\repos\\Achei\\apis\\achei.api.prestadorservico\\achei.comp.repository.mapper.prestadorservico\\obj\\",
+      "outputPath": "C:\\Users\\Eduardo\\Source\\repos\\Achei\\apis\\ACHEI\\achei.api.prestadorservico\\achei.comp.repository.mapper.prestadorservico\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -60,8 +60,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Eduardo\\Source\\repos\\Achei\\apis\\achei.api.prestadorservico\\achei.comp.domain.prestadorservico\\achei.comp.domain.prestadorservico.csproj": {
-              "projectPath": "C:\\Users\\Eduardo\\Source\\repos\\Achei\\apis\\achei.api.prestadorservico\\achei.comp.domain.prestadorservico\\achei.comp.domain.prestadorservico.csproj"
+            "C:\\Users\\Eduardo\\Source\\repos\\Achei\\apis\\ACHEI\\achei.api.prestadorservico\\achei.comp.domain.prestadorservico\\achei.comp.domain.prestadorservico.csproj": {
+              "projectPath": "C:\\Users\\Eduardo\\Source\\repos\\Achei\\apis\\ACHEI\\achei.api.prestadorservico\\achei.comp.domain.prestadorservico\\achei.comp.domain.prestadorservico.csproj"
             }
           }
         }

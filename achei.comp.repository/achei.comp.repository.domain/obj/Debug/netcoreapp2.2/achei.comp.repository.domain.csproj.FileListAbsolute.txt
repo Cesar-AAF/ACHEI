@@ -1,0 +1,9 @@
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.comp.repository\achei.comp.repository.domain\bin\Debug\netcoreapp2.2\achei.comp.repository.domain.deps.json
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.comp.repository\achei.comp.repository.domain\bin\Debug\netcoreapp2.2\achei.comp.repository.domain.dll
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.comp.repository\achei.comp.repository.domain\bin\Debug\netcoreapp2.2\achei.comp.repository.domain.pdb
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.comp.repository\achei.comp.repository.domain\obj\Debug\netcoreapp2.2\achei.comp.repository.domain.csprojAssemblyReference.cache
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.comp.repository\achei.comp.repository.domain\obj\Debug\netcoreapp2.2\achei.comp.repository.domain.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.comp.repository\achei.comp.repository.domain\obj\Debug\netcoreapp2.2\achei.comp.repository.domain.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.comp.repository\achei.comp.repository.domain\obj\Debug\netcoreapp2.2\achei.comp.repository.domain.AssemblyInfo.cs
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.comp.repository\achei.comp.repository.domain\obj\Debug\netcoreapp2.2\achei.comp.repository.domain.dll
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.comp.repository\achei.comp.repository.domain\obj\Debug\netcoreapp2.2\achei.comp.repository.domain.pdb

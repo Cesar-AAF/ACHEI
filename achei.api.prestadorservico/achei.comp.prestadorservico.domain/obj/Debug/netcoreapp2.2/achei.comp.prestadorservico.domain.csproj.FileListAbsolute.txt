@@ -1,0 +1,4 @@
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.prestadorservico\achei.comp.prestadorservico.domain\obj\Debug\netcoreapp2.2\achei.comp.prestadorservico.domain.csprojAssemblyReference.cache
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.prestadorservico\achei.comp.prestadorservico.domain\obj\Debug\netcoreapp2.2\achei.comp.prestadorservico.domain.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.prestadorservico\achei.comp.prestadorservico.domain\obj\Debug\netcoreapp2.2\achei.comp.prestadorservico.domain.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.prestadorservico\achei.comp.prestadorservico.domain\obj\Debug\netcoreapp2.2\achei.comp.prestadorservico.domain.AssemblyInfo.cs

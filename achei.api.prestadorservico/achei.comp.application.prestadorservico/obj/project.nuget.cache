@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "svWCHp8xiNZBXzyNAqm6TxzW972jRJh90BwERHt4jbPdJ5AZyzWnEHIxAkstN9chrZeP9UR8JU1RVEgzm4Dn3Q==",
+  "dgSpecHash": "el4iNUNEqUnuQGNYJEQHd9R7G32OYuWJ43mOcDhK9r5O/9/WlP8VLA3EKtS7xXgsne8lYM+xl4MMuVydlKjwDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Eduardo\\Source\\repos\\Achei\\apis\\achei.api.prestadorservico\\achei.comp.application.prestadorservico\\achei.comp.application.prestadorservico.csproj",
+  "projectFilePath": "C:\\Users\\Eduardo\\Source\\repos\\Achei\\apis\\ACHEI\\achei.api.prestadorservico\\achei.comp.application.prestadorservico\\achei.comp.application.prestadorservico.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

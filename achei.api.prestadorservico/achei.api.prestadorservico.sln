@@ -15,13 +15,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{96ABC8F7
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "achei.api.prestadorservico", "achei.api.prestadorservico\achei.api.prestadorservico.csproj", "{5CA7ADAD-499A-437D-86D0-56DAE605BB39}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "achei.comp.application.prestadorservico", "achei.comp.application.prestadorservico\achei.comp.application.prestadorservico.csproj", "{060BC805-D540-460E-8608-23CC3E4467C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "achei.comp.prestadorservico.application", "achei.comp.prestadorservico.application\achei.comp.prestadorservico.application.csproj", "{4F6C0BF8-B363-40CA-9FF6-3083DA88792F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "achei.comp.domain.prestadorservico", "achei.comp.domain.prestadorservico\achei.comp.domain.prestadorservico.csproj", "{BECA2FBD-C516-4A94-91D8-2A2CF57E537F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "achei.comp.prestadorservico.domain", "achei.comp.prestadorservico.domain\achei.comp.prestadorservico.domain.csproj", "{03E26E17-7BBF-4150-BB3C-63A0DF5D3BFC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "achei.comp.repository.prestadorservico", "achei.comp.repository.prestadorservico\achei.comp.repository.prestadorservico.csproj", "{E6058BFA-ECFF-4DE0-B412-4B29E2607D95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "achei.comp.prestadorservico.repository", "achei.comp.prestadorservico.repository\achei.comp.prestadorservico.repository.csproj", "{9BCDB57F-D683-4B20-926F-31DFB7212454}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "achei.comp.repository.mapper.prestadorservico", "achei.comp.repository.mapper.prestadorservico\achei.comp.repository.mapper.prestadorservico.csproj", "{452E736C-8BA0-4ABB-B80B-7F2B53E43D70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "achei.comp.prestadorservico.repository.mapper", "achei.comp.prestadorservico.repository.mapper\achei.comp.prestadorservico.repository.mapper.csproj", "{29516405-D935-4FFD-9503-1CB3BDE2ACE7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,32 +33,32 @@ Global
 		{5CA7ADAD-499A-437D-86D0-56DAE605BB39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CA7ADAD-499A-437D-86D0-56DAE605BB39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CA7ADAD-499A-437D-86D0-56DAE605BB39}.Release|Any CPU.Build.0 = Release|Any CPU
-		{060BC805-D540-460E-8608-23CC3E4467C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{060BC805-D540-460E-8608-23CC3E4467C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{060BC805-D540-460E-8608-23CC3E4467C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{060BC805-D540-460E-8608-23CC3E4467C2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BECA2FBD-C516-4A94-91D8-2A2CF57E537F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BECA2FBD-C516-4A94-91D8-2A2CF57E537F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BECA2FBD-C516-4A94-91D8-2A2CF57E537F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BECA2FBD-C516-4A94-91D8-2A2CF57E537F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E6058BFA-ECFF-4DE0-B412-4B29E2607D95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E6058BFA-ECFF-4DE0-B412-4B29E2607D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E6058BFA-ECFF-4DE0-B412-4B29E2607D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E6058BFA-ECFF-4DE0-B412-4B29E2607D95}.Release|Any CPU.Build.0 = Release|Any CPU
-		{452E736C-8BA0-4ABB-B80B-7F2B53E43D70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{452E736C-8BA0-4ABB-B80B-7F2B53E43D70}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{452E736C-8BA0-4ABB-B80B-7F2B53E43D70}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{452E736C-8BA0-4ABB-B80B-7F2B53E43D70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F6C0BF8-B363-40CA-9FF6-3083DA88792F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F6C0BF8-B363-40CA-9FF6-3083DA88792F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F6C0BF8-B363-40CA-9FF6-3083DA88792F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F6C0BF8-B363-40CA-9FF6-3083DA88792F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03E26E17-7BBF-4150-BB3C-63A0DF5D3BFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03E26E17-7BBF-4150-BB3C-63A0DF5D3BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03E26E17-7BBF-4150-BB3C-63A0DF5D3BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03E26E17-7BBF-4150-BB3C-63A0DF5D3BFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BCDB57F-D683-4B20-926F-31DFB7212454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BCDB57F-D683-4B20-926F-31DFB7212454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BCDB57F-D683-4B20-926F-31DFB7212454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BCDB57F-D683-4B20-926F-31DFB7212454}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29516405-D935-4FFD-9503-1CB3BDE2ACE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29516405-D935-4FFD-9503-1CB3BDE2ACE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29516405-D935-4FFD-9503-1CB3BDE2ACE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29516405-D935-4FFD-9503-1CB3BDE2ACE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{5CA7ADAD-499A-437D-86D0-56DAE605BB39} = {85CB0F7D-F790-4D86-AD98-E01E33A25B85}
-		{060BC805-D540-460E-8608-23CC3E4467C2} = {E1EB47C4-0354-48D4-8894-681816107A75}
-		{BECA2FBD-C516-4A94-91D8-2A2CF57E537F} = {2BE69397-2DB2-48C5-B3BC-DB97B5F2E853}
-		{E6058BFA-ECFF-4DE0-B412-4B29E2607D95} = {E0DEEC81-6470-4109-A9C2-796C585CC90F}
-		{452E736C-8BA0-4ABB-B80B-7F2B53E43D70} = {E0DEEC81-6470-4109-A9C2-796C585CC90F}
+		{4F6C0BF8-B363-40CA-9FF6-3083DA88792F} = {E1EB47C4-0354-48D4-8894-681816107A75}
+		{03E26E17-7BBF-4150-BB3C-63A0DF5D3BFC} = {2BE69397-2DB2-48C5-B3BC-DB97B5F2E853}
+		{9BCDB57F-D683-4B20-926F-31DFB7212454} = {E0DEEC81-6470-4109-A9C2-796C585CC90F}
+		{29516405-D935-4FFD-9503-1CB3BDE2ACE7} = {E0DEEC81-6470-4109-A9C2-796C585CC90F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5DE16AA3-2AA2-4A32-8B48-D33487854594}

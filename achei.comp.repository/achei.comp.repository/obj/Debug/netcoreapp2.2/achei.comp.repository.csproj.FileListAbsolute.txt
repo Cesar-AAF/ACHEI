@@ -1,0 +1,14 @@
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.comp.repository\achei.comp.repository\bin\Debug\netcoreapp2.2\achei.comp.repository.deps.json
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.comp.repository\achei.comp.repository\bin\Debug\netcoreapp2.2\achei.comp.repository.dll
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.comp.repository\achei.comp.repository\bin\Debug\netcoreapp2.2\achei.comp.repository.pdb
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.comp.repository\achei.comp.repository\bin\Debug\netcoreapp2.2\achei.comp.repository.domain.dll
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.comp.repository\achei.comp.repository\bin\Debug\netcoreapp2.2\achei.comp.repository.mapper.dll
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.comp.repository\achei.comp.repository\bin\Debug\netcoreapp2.2\achei.comp.repository.domain.pdb
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.comp.repository\achei.comp.repository\bin\Debug\netcoreapp2.2\achei.comp.repository.mapper.pdb
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.comp.repository\achei.comp.repository\obj\Debug\netcoreapp2.2\achei.comp.repository.csprojAssemblyReference.cache
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.comp.repository\achei.comp.repository\obj\Debug\netcoreapp2.2\achei.comp.repository.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.comp.repository\achei.comp.repository\obj\Debug\netcoreapp2.2\achei.comp.repository.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.comp.repository\achei.comp.repository\obj\Debug\netcoreapp2.2\achei.comp.repository.AssemblyInfo.cs
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.comp.repository\achei.comp.repository\obj\Debug\netcoreapp2.2\achei.comp.repository.csproj.CopyComplete
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.comp.repository\achei.comp.repository\obj\Debug\netcoreapp2.2\achei.comp.repository.dll
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.comp.repository\achei.comp.repository\obj\Debug\netcoreapp2.2\achei.comp.repository.pdb
