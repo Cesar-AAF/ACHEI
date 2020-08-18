@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bjDmmZFO/KhhEbNpa2CUBFl64kLrKLFly2uwUHbDtBvuWshdOqsIsQezGSBajSNe0066SAk36pQGiPju4qrTRA==",
+  "success": true,
+  "projectFilePath": "D:\\Arquivos\\Documentos\\achei\\projeto\\ACHEI\\achei.api.prestadorservico\\achei.comp.domain.pedidos\\achei.comp.domain.pedidos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Janes Raulino\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Janes Raulino\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

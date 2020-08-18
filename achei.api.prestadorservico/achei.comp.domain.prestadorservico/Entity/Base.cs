@@ -1,4 +1,6 @@
-﻿namespace achei.comp.domain.prestadorservico.Entity
+﻿using System;
+
+namespace achei.comp.domain.prestadorservico.Entity
 {
     public class Base
     {

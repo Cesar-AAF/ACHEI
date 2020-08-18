@@ -1,0 +1,5 @@
+D:\Arquivos\Documentos\achei\projeto\ACHEI\achei.api.prestadorservico\achei.api.prestadorservico\obj\Debug\netcoreapp3.1\achei.api.prestadorservico.csprojAssemblyReference.cache
+D:\Arquivos\Documentos\achei\projeto\ACHEI\achei.api.prestadorservico\achei.api.prestadorservico\obj\Debug\netcoreapp3.1\achei.api.prestadorservico.AssemblyInfoInputs.cache
+D:\Arquivos\Documentos\achei\projeto\ACHEI\achei.api.prestadorservico\achei.api.prestadorservico\obj\Debug\netcoreapp3.1\achei.api.prestadorservico.AssemblyInfo.cs
+D:\Arquivos\Documentos\achei\projeto\ACHEI\achei.api.prestadorservico\achei.api.prestadorservico\obj\Debug\netcoreapp3.1\achei.api.prestadorservico.csproj.CoreCompileInputs.cache
+D:\Arquivos\Documentos\achei\projeto\ACHEI\achei.api.prestadorservico\achei.api.prestadorservico\obj\Debug\netcoreapp3.1\achei.api.prestadorservico.MvcApplicationPartsAssemblyInfo.cache

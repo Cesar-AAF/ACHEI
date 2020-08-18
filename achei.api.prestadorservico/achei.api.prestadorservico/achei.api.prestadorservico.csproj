@@ -11,10 +11,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\achei.comp.application.prestadorservico\achei.comp.application.prestadorservico.csproj" />
     <ProjectReference Include="..\achei.comp.domain.prestadorservico\achei.comp.domain.prestadorservico.csproj" />
   </ItemGroup>

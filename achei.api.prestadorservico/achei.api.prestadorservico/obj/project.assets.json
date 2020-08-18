@@ -783,23 +783,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Cesar Funaki\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Janes Raulino\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Project\\ACHEI\\achei.api.prestadorservico\\achei.api.prestadorservico\\achei.api.prestadorservico.csproj",
+      "projectUniqueName": "D:\\Arquivos\\Documentos\\achei\\projeto\\ACHEI\\achei.api.prestadorservico\\achei.api.prestadorservico\\achei.api.prestadorservico.csproj",
       "projectName": "achei.api.prestadorservico",
-      "projectPath": "E:\\Project\\ACHEI\\achei.api.prestadorservico\\achei.api.prestadorservico\\achei.api.prestadorservico.csproj",
-      "packagesPath": "C:\\Users\\Cesar Funaki\\.nuget\\packages\\",
-      "outputPath": "E:\\Project\\ACHEI\\achei.api.prestadorservico\\achei.api.prestadorservico\\obj\\",
+      "projectPath": "D:\\Arquivos\\Documentos\\achei\\projeto\\ACHEI\\achei.api.prestadorservico\\achei.api.prestadorservico\\achei.api.prestadorservico.csproj",
+      "packagesPath": "C:\\Users\\Janes Raulino\\.nuget\\packages\\",
+      "outputPath": "D:\\Arquivos\\Documentos\\achei\\projeto\\ACHEI\\achei.api.prestadorservico\\achei.api.prestadorservico\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Cesar Funaki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Janes Raulino\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -812,11 +808,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "E:\\Project\\ACHEI\\achei.api.prestadorservico\\achei.comp.application.prestadorservico\\achei.comp.application.prestadorservico.csproj": {
-              "projectPath": "E:\\Project\\ACHEI\\achei.api.prestadorservico\\achei.comp.application.prestadorservico\\achei.comp.application.prestadorservico.csproj"
+            "D:\\Arquivos\\Documentos\\achei\\projeto\\ACHEI\\achei.api.prestadorservico\\achei.comp.application.prestadorservico\\achei.comp.application.prestadorservico.csproj": {
+              "projectPath": "D:\\Arquivos\\Documentos\\achei\\projeto\\ACHEI\\achei.api.prestadorservico\\achei.comp.application.prestadorservico\\achei.comp.application.prestadorservico.csproj"
             },
-            "E:\\Project\\ACHEI\\achei.api.prestadorservico\\achei.comp.domain.prestadorservico\\achei.comp.domain.prestadorservico.csproj": {
-              "projectPath": "E:\\Project\\ACHEI\\achei.api.prestadorservico\\achei.comp.domain.prestadorservico\\achei.comp.domain.prestadorservico.csproj"
+            "D:\\Arquivos\\Documentos\\achei\\projeto\\ACHEI\\achei.api.prestadorservico\\achei.comp.domain.prestadorservico\\achei.comp.domain.prestadorservico.csproj": {
+              "projectPath": "D:\\Arquivos\\Documentos\\achei\\projeto\\ACHEI\\achei.api.prestadorservico\\achei.comp.domain.prestadorservico\\achei.comp.domain.prestadorservico.csproj"
             }
           }
         }
@@ -853,7 +849,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
