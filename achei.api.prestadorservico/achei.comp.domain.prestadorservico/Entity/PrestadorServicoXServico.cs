@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace achei.comp.domain.pedidos.Entity
+namespace achei.comp.domain.prestadorservico.Entity
 {
     public class PrestadorServicoXServico
     {

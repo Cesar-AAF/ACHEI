@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace achei.comp.domain.pedidos.Entity
+namespace achei.comp.domain.prestadorservico.Constants
 {
-    public class Servico
+    public class Profissao
     {
     }
 }
