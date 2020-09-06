@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Proxies\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.2.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\achei.comp.prestador.domain\achei.comp.prestador.domain.csproj" />
+    <ProjectReference Include="..\achei.comp.prestador.repository.mapper\achei.comp.prestador.repository.mapper.csproj" />
+  </ItemGroup>
+
+</Project>

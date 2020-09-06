@@ -1,0 +1,12 @@
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.orcamentos\achei.comp.orcamentos.repository.mapper\obj\Debug\netcoreapp2.2\achei.comp.orcamentos.repository.mapper.csprojAssemblyReference.cache
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.orcamentos\achei.comp.orcamentos.repository.mapper\obj\Debug\netcoreapp2.2\achei.comp.orcamentos.repository.mapper.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.orcamentos\achei.comp.orcamentos.repository.mapper\obj\Debug\netcoreapp2.2\achei.comp.orcamentos.repository.mapper.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.orcamentos\achei.comp.orcamentos.repository.mapper\obj\Debug\netcoreapp2.2\achei.comp.orcamentos.repository.mapper.AssemblyInfo.cs
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.orcamentos\achei.comp.orcamentos.repository.mapper\bin\Debug\netcoreapp2.2\achei.comp.orcamentos.repository.mapper.deps.json
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.orcamentos\achei.comp.orcamentos.repository.mapper\bin\Debug\netcoreapp2.2\achei.comp.orcamentos.repository.mapper.dll
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.orcamentos\achei.comp.orcamentos.repository.mapper\bin\Debug\netcoreapp2.2\achei.comp.orcamentos.repository.mapper.pdb
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.orcamentos\achei.comp.orcamentos.repository.mapper\bin\Debug\netcoreapp2.2\achei.comp.orcamentos.domain.dll
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.orcamentos\achei.comp.orcamentos.repository.mapper\bin\Debug\netcoreapp2.2\achei.comp.orcamentos.domain.pdb
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.orcamentos\achei.comp.orcamentos.repository.mapper\obj\Debug\netcoreapp2.2\achei.comp.orcamentos.repository.mapper.csproj.CopyComplete
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.orcamentos\achei.comp.orcamentos.repository.mapper\obj\Debug\netcoreapp2.2\achei.comp.orcamentos.repository.mapper.dll
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.orcamentos\achei.comp.orcamentos.repository.mapper\obj\Debug\netcoreapp2.2\achei.comp.orcamentos.repository.mapper.pdb

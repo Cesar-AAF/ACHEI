@@ -1,0 +1,14 @@
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.orcamentos\achei.comp.orcamentos.repository\obj\Debug\netcoreapp2.2\achei.comp.orcamentos.repository.csprojAssemblyReference.cache
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.orcamentos\achei.comp.orcamentos.repository\obj\Debug\netcoreapp2.2\achei.comp.orcamentos.repository.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.orcamentos\achei.comp.orcamentos.repository\obj\Debug\netcoreapp2.2\achei.comp.orcamentos.repository.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.orcamentos\achei.comp.orcamentos.repository\obj\Debug\netcoreapp2.2\achei.comp.orcamentos.repository.AssemblyInfo.cs
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.orcamentos\achei.comp.orcamentos.repository\bin\Debug\netcoreapp2.2\achei.comp.orcamentos.repository.deps.json
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.orcamentos\achei.comp.orcamentos.repository\bin\Debug\netcoreapp2.2\achei.comp.orcamentos.repository.dll
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.orcamentos\achei.comp.orcamentos.repository\bin\Debug\netcoreapp2.2\achei.comp.orcamentos.repository.pdb
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.orcamentos\achei.comp.orcamentos.repository\bin\Debug\netcoreapp2.2\achei.comp.orcamentos.domain.dll
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.orcamentos\achei.comp.orcamentos.repository\bin\Debug\netcoreapp2.2\achei.comp.orcamentos.repository.mapper.dll
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.orcamentos\achei.comp.orcamentos.repository\bin\Debug\netcoreapp2.2\achei.comp.orcamentos.domain.pdb
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.orcamentos\achei.comp.orcamentos.repository\bin\Debug\netcoreapp2.2\achei.comp.orcamentos.repository.mapper.pdb
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.orcamentos\achei.comp.orcamentos.repository\obj\Debug\netcoreapp2.2\achei.comp.orcamentos.repository.csproj.CopyComplete
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.orcamentos\achei.comp.orcamentos.repository\obj\Debug\netcoreapp2.2\achei.comp.orcamentos.repository.dll
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.orcamentos\achei.comp.orcamentos.repository\obj\Debug\netcoreapp2.2\achei.comp.orcamentos.repository.pdb

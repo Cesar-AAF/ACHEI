@@ -1,0 +1,8 @@
+D:\Projetos\achei.api.orcamentos\src\achei.comp.orcamentos.domain\bin\Debug\netcoreapp2.2\achei.comp.orcamentos.domain.deps.json
+D:\Projetos\achei.api.orcamentos\src\achei.comp.orcamentos.domain\bin\Debug\netcoreapp2.2\achei.comp.orcamentos.domain.dll
+D:\Projetos\achei.api.orcamentos\src\achei.comp.orcamentos.domain\bin\Debug\netcoreapp2.2\achei.comp.orcamentos.domain.pdb
+D:\Projetos\achei.api.orcamentos\src\achei.comp.orcamentos.domain\obj\Debug\netcoreapp2.2\achei.comp.orcamentos.domain.csproj.CoreCompileInputs.cache
+D:\Projetos\achei.api.orcamentos\src\achei.comp.orcamentos.domain\obj\Debug\netcoreapp2.2\achei.comp.orcamentos.domain.AssemblyInfoInputs.cache
+D:\Projetos\achei.api.orcamentos\src\achei.comp.orcamentos.domain\obj\Debug\netcoreapp2.2\achei.comp.orcamentos.domain.AssemblyInfo.cs
+D:\Projetos\achei.api.orcamentos\src\achei.comp.orcamentos.domain\obj\Debug\netcoreapp2.2\achei.comp.orcamentos.domain.dll
+D:\Projetos\achei.api.orcamentos\src\achei.comp.orcamentos.domain\obj\Debug\netcoreapp2.2\achei.comp.orcamentos.domain.pdb

@@ -1,0 +1,16 @@
+D:\Projetos\achei.api.orcamentos\src\achei.comp.orcamentos.application\bin\Debug\netcoreapp2.2\achei.comp.orcamentos.application.deps.json
+D:\Projetos\achei.api.orcamentos\src\achei.comp.orcamentos.application\bin\Debug\netcoreapp2.2\achei.comp.orcamentos.application.dll
+D:\Projetos\achei.api.orcamentos\src\achei.comp.orcamentos.application\bin\Debug\netcoreapp2.2\achei.comp.orcamentos.application.pdb
+D:\Projetos\achei.api.orcamentos\src\achei.comp.orcamentos.application\bin\Debug\netcoreapp2.2\achei.comp.orcamentos.domain.dll
+D:\Projetos\achei.api.orcamentos\src\achei.comp.orcamentos.application\bin\Debug\netcoreapp2.2\achei.comp.orcamentos.repository.dll
+D:\Projetos\achei.api.orcamentos\src\achei.comp.orcamentos.application\bin\Debug\netcoreapp2.2\achei.comp.orcamentos.repository.mapper.dll
+D:\Projetos\achei.api.orcamentos\src\achei.comp.orcamentos.application\bin\Debug\netcoreapp2.2\achei.comp.orcamentos.domain.pdb
+D:\Projetos\achei.api.orcamentos\src\achei.comp.orcamentos.application\bin\Debug\netcoreapp2.2\achei.comp.orcamentos.repository.pdb
+D:\Projetos\achei.api.orcamentos\src\achei.comp.orcamentos.application\bin\Debug\netcoreapp2.2\achei.comp.orcamentos.repository.mapper.pdb
+D:\Projetos\achei.api.orcamentos\src\achei.comp.orcamentos.application\obj\Debug\netcoreapp2.2\achei.comp.orcamentos.application.csprojAssemblyReference.cache
+D:\Projetos\achei.api.orcamentos\src\achei.comp.orcamentos.application\obj\Debug\netcoreapp2.2\achei.comp.orcamentos.application.csproj.CoreCompileInputs.cache
+D:\Projetos\achei.api.orcamentos\src\achei.comp.orcamentos.application\obj\Debug\netcoreapp2.2\achei.comp.orcamentos.application.AssemblyInfoInputs.cache
+D:\Projetos\achei.api.orcamentos\src\achei.comp.orcamentos.application\obj\Debug\netcoreapp2.2\achei.comp.orcamentos.application.AssemblyInfo.cs
+D:\Projetos\achei.api.orcamentos\src\achei.comp.orcamentos.application\obj\Debug\netcoreapp2.2\achei.comp.orcamentos.application.csproj.CopyComplete
+D:\Projetos\achei.api.orcamentos\src\achei.comp.orcamentos.application\obj\Debug\netcoreapp2.2\achei.comp.orcamentos.application.dll
+D:\Projetos\achei.api.orcamentos\src\achei.comp.orcamentos.application\obj\Debug\netcoreapp2.2\achei.comp.orcamentos.application.pdb

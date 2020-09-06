@@ -1,0 +1,12 @@
+D:\Projetos\achei.api.orcamentos\src\achei.comp.orcamentos.repository.mapper\bin\Debug\netcoreapp2.2\achei.comp.orcamentos.repository.mapper.deps.json
+D:\Projetos\achei.api.orcamentos\src\achei.comp.orcamentos.repository.mapper\bin\Debug\netcoreapp2.2\achei.comp.orcamentos.repository.mapper.dll
+D:\Projetos\achei.api.orcamentos\src\achei.comp.orcamentos.repository.mapper\bin\Debug\netcoreapp2.2\achei.comp.orcamentos.repository.mapper.pdb
+D:\Projetos\achei.api.orcamentos\src\achei.comp.orcamentos.repository.mapper\bin\Debug\netcoreapp2.2\achei.comp.orcamentos.domain.dll
+D:\Projetos\achei.api.orcamentos\src\achei.comp.orcamentos.repository.mapper\bin\Debug\netcoreapp2.2\achei.comp.orcamentos.domain.pdb
+D:\Projetos\achei.api.orcamentos\src\achei.comp.orcamentos.repository.mapper\obj\Debug\netcoreapp2.2\achei.comp.orcamentos.repository.mapper.csprojAssemblyReference.cache
+D:\Projetos\achei.api.orcamentos\src\achei.comp.orcamentos.repository.mapper\obj\Debug\netcoreapp2.2\achei.comp.orcamentos.repository.mapper.csproj.CoreCompileInputs.cache
+D:\Projetos\achei.api.orcamentos\src\achei.comp.orcamentos.repository.mapper\obj\Debug\netcoreapp2.2\achei.comp.orcamentos.repository.mapper.AssemblyInfoInputs.cache
+D:\Projetos\achei.api.orcamentos\src\achei.comp.orcamentos.repository.mapper\obj\Debug\netcoreapp2.2\achei.comp.orcamentos.repository.mapper.AssemblyInfo.cs
+D:\Projetos\achei.api.orcamentos\src\achei.comp.orcamentos.repository.mapper\obj\Debug\netcoreapp2.2\achei.comp.orcamentos.repository.mapper.csproj.CopyComplete
+D:\Projetos\achei.api.orcamentos\src\achei.comp.orcamentos.repository.mapper\obj\Debug\netcoreapp2.2\achei.comp.orcamentos.repository.mapper.dll
+D:\Projetos\achei.api.orcamentos\src\achei.comp.orcamentos.repository.mapper\obj\Debug\netcoreapp2.2\achei.comp.orcamentos.repository.mapper.pdb

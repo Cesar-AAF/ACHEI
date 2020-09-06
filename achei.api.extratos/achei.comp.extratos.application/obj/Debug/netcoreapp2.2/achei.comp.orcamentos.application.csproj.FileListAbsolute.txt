@@ -1,0 +1,16 @@
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.orcamentos\achei.comp.orcamentos.application\bin\Debug\netcoreapp2.2\achei.comp.orcamentos.application.deps.json
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.orcamentos\achei.comp.orcamentos.application\bin\Debug\netcoreapp2.2\achei.comp.orcamentos.application.dll
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.orcamentos\achei.comp.orcamentos.application\bin\Debug\netcoreapp2.2\achei.comp.orcamentos.application.pdb
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.orcamentos\achei.comp.orcamentos.application\bin\Debug\netcoreapp2.2\achei.comp.orcamentos.domain.dll
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.orcamentos\achei.comp.orcamentos.application\bin\Debug\netcoreapp2.2\achei.comp.orcamentos.repository.dll
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.orcamentos\achei.comp.orcamentos.application\bin\Debug\netcoreapp2.2\achei.comp.orcamentos.repository.mapper.dll
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.orcamentos\achei.comp.orcamentos.application\bin\Debug\netcoreapp2.2\achei.comp.orcamentos.domain.pdb
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.orcamentos\achei.comp.orcamentos.application\bin\Debug\netcoreapp2.2\achei.comp.orcamentos.repository.pdb
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.orcamentos\achei.comp.orcamentos.application\bin\Debug\netcoreapp2.2\achei.comp.orcamentos.repository.mapper.pdb
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.orcamentos\achei.comp.orcamentos.application\obj\Debug\netcoreapp2.2\achei.comp.orcamentos.application.csprojAssemblyReference.cache
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.orcamentos\achei.comp.orcamentos.application\obj\Debug\netcoreapp2.2\achei.comp.orcamentos.application.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.orcamentos\achei.comp.orcamentos.application\obj\Debug\netcoreapp2.2\achei.comp.orcamentos.application.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.orcamentos\achei.comp.orcamentos.application\obj\Debug\netcoreapp2.2\achei.comp.orcamentos.application.AssemblyInfo.cs
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.orcamentos\achei.comp.orcamentos.application\obj\Debug\netcoreapp2.2\achei.comp.orcamentos.application.csproj.CopyComplete
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.orcamentos\achei.comp.orcamentos.application\obj\Debug\netcoreapp2.2\achei.comp.orcamentos.application.dll
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.orcamentos\achei.comp.orcamentos.application\obj\Debug\netcoreapp2.2\achei.comp.orcamentos.application.pdb
