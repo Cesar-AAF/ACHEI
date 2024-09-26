@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\achei.comp.extratos.domain\achei.comp.extratos.domain.csproj" />
+    <ProjectReference Include="..\achei.comp.extratos.repository\achei.comp.extratos.repository.csproj" />
+  </ItemGroup>
+
+</Project>

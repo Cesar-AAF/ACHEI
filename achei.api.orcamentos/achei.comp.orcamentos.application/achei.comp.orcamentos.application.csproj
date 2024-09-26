@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\achei.comp.orcamentos.domain\achei.comp.orcamentos.domain.csproj" />
+    <ProjectReference Include="..\achei.comp.orcamentos.repository\achei.comp.orcamentos.repository.csproj" />
+  </ItemGroup>
+
+</Project>

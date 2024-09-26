@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Eduardo\\Source\\repos\\Achei\\apis\\ACHEI\\achei.api.prestadorservico\\achei.comp.prestadorservico.repository\\achei.comp.prestadorservico.repository.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Eduardo\\Source\\repos\\Achei\\apis\\ACHEI\\achei.api.prestadorservico\\achei.comp.prestadorservico.repository\\achei.comp.prestadorservico.repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Eduardo\\Source\\repos\\Achei\\apis\\ACHEI\\achei.api.prestadorservico\\achei.comp.prestadorservico.repository\\achei.comp.prestadorservico.repository.csproj",
+        "projectName": "achei.comp.prestadorservico.repository",
+        "projectPath": "C:\\Users\\Eduardo\\Source\\repos\\Achei\\apis\\ACHEI\\achei.api.prestadorservico\\achei.comp.prestadorservico.repository\\achei.comp.prestadorservico.repository.csproj",
+        "packagesPath": "C:\\Users\\Eduardo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eduardo\\Source\\repos\\Achei\\apis\\ACHEI\\achei.api.prestadorservico\\achei.comp.prestadorservico.repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Eduardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/imazen-nightlies/.": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Eduardo\\Source\\repos\\Achei\\apis\\ACHEI\\achei.api.prestadorservico\\achei.comp.Prestador.domain\\achei.comp.Prestador.domain.csproj": {
+                "projectPath": "C:\\Users\\Eduardo\\Source\\repos\\Achei\\apis\\ACHEI\\achei.api.prestadorservico\\achei.comp.Prestador.domain\\achei.comp.Prestador.domain.csproj"
+              },
+              "C:\\Users\\Eduardo\\Source\\repos\\Achei\\apis\\ACHEI\\achei.api.prestadorservico\\achei.comp.Prestador.repository.mapper\\achei.comp.Prestador.repository.mapper.csproj": {
+                "projectPath": "C:\\Users\\Eduardo\\Source\\repos\\Achei\\apis\\ACHEI\\achei.api.prestadorservico\\achei.comp.Prestador.repository.mapper\\achei.comp.Prestador.repository.mapper.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

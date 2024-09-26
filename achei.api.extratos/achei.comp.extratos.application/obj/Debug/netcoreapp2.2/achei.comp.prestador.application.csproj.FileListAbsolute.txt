@@ -1,0 +1,16 @@
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.prestadorservico\achei.comp.prestadorservico.application\bin\Debug\netcoreapp2.2\achei.comp.prestador.application.deps.json
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.prestadorservico\achei.comp.prestadorservico.application\bin\Debug\netcoreapp2.2\achei.comp.prestador.application.dll
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.prestadorservico\achei.comp.prestadorservico.application\bin\Debug\netcoreapp2.2\achei.comp.prestador.application.pdb
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.prestadorservico\achei.comp.prestadorservico.application\obj\Debug\netcoreapp2.2\achei.comp.prestador.application.csprojAssemblyReference.cache
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.prestadorservico\achei.comp.prestadorservico.application\obj\Debug\netcoreapp2.2\achei.comp.prestador.application.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.prestadorservico\achei.comp.prestadorservico.application\obj\Debug\netcoreapp2.2\achei.comp.prestador.application.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.prestadorservico\achei.comp.prestadorservico.application\obj\Debug\netcoreapp2.2\achei.comp.prestador.application.AssemblyInfo.cs
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.prestadorservico\achei.comp.prestadorservico.application\obj\Debug\netcoreapp2.2\achei.comp.prestador.application.dll
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.prestadorservico\achei.comp.prestadorservico.application\obj\Debug\netcoreapp2.2\achei.comp.prestador.application.pdb
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.prestadorservico\achei.comp.prestadorservico.application\bin\Debug\netcoreapp2.2\achei.comp.prestador.domain.dll
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.prestadorservico\achei.comp.prestadorservico.application\bin\Debug\netcoreapp2.2\achei.comp.prestador.repository.dll
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.prestadorservico\achei.comp.prestadorservico.application\bin\Debug\netcoreapp2.2\achei.comp.prestador.repository.mapper.dll
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.prestadorservico\achei.comp.prestadorservico.application\bin\Debug\netcoreapp2.2\achei.comp.prestador.domain.pdb
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.prestadorservico\achei.comp.prestadorservico.application\bin\Debug\netcoreapp2.2\achei.comp.prestador.repository.pdb
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.prestadorservico\achei.comp.prestadorservico.application\bin\Debug\netcoreapp2.2\achei.comp.prestador.repository.mapper.pdb
+C:\Users\Eduardo\Source\repos\Achei\apis\ACHEI\achei.api.prestadorservico\achei.comp.prestadorservico.application\obj\Debug\netcoreapp2.2\achei.comp.prestador.application.csproj.CopyComplete
